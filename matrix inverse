@@ -1,0 +1,20 @@
+makevector<-c(11, 12, 13)
+x<-null
+set<-c(y) {
++ x<<-y
++ x<-null
++ }
+
+{
+get<-c(11, 12, 13)
+setmean<-c(11, 12, 13)
+result.mean<-mean(c)
+getmean<-c(11, 12, 13)
+list(set=set 
++ get+get
++ setmean=setmean
++ getmean+getmean)
+}
+cachemean<-c(x, y) {
+x$setmean(y)
+}
