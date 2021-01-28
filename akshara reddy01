@@ -1,0 +1,18 @@
+inverse<-null{
++ set<-function(x)
++ x<-inverse
++ inverse<-null
+ }
+ mean<-inverse(matrix)
+ + getinverse<-x
+ + setinverse<-matrix
+setinverse<-function(inverse) { 
+ i<==-inverse
+ }
+
+y<-data$inverse{
++ data<-getinverse
++ a<-solvedata
++ y$setInverse(a)
++ y
+ }
